@@ -4,7 +4,7 @@ The [Robot Operating System (ROS)](https://index.ros.org/doc/ros2/) is a set of 
 
 ---
 
-## Bagiles
+## Bagfiles
 [ROS2 Bag](https://index.ros.org/doc/ros2/Tutorials/Ros2bag/Recording-And-Playing-Back-Data/#ros2bag)  
 [ROS2 Github](https://github.com/ros2/rosbag2)  
 ros2 bag is a command line tool for recording data published on topics in your system. New in ROS2, the bagfile is stored as sqlite3 database.
